@@ -1,6 +1,6 @@
 # ❌⭕ Tic-Tac-Toe
 
-A terminal-based **Tic-Tac-Toe** game developed in **C++** that supports two-player, turn-based gameplay. This project recreates the classic game entirely within the command-line interface while demonstrating fundamental C++ programming concepts and game logic.
+This is the second Tic-Tac-Toe game that supports two-player turn-based gameplay, developed using **C++**. It includes simple Tic-Tac-Toe game mechanics similar to the original game, such as game board management, but will be displayed on the Terminal instead of a window, move validation, and automated win/draw detection. 
 
 ---
 
