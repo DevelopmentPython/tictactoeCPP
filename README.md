@@ -38,27 +38,6 @@ The game includes the following features:
 
 ---
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/DevelopmentPython/YourRepository.git
-
-cd YourRepository
-
-g++ main.cpp -o TicTacToe
-
-./TicTacToe
-```
-
----
-
-## 🔗 Source Code
-
-**GitHub Repository:**  
-[View Source Code](https://github.com/DevelopmentPython/YourRepository)
-
----
-
 ## 💡 What I Learned
 
 This project helped me strengthen my understanding of:
